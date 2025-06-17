@@ -14,7 +14,7 @@
     "Firefox >= 31",
     "Samsung >= 5"
   ],
-  "homepage": "https://trongmobile.github.io/solution",
+  "homepage": "https://trongmobile.github.io/projects/",
   "scripts": {
     "start": "zmp start",
     "build": "vite build",

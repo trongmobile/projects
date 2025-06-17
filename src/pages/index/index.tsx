@@ -10,8 +10,8 @@ import { Divider } from "components/divider";
 
 const HomePage: React.FunctionComponent = () => {
   return (
-    <Page className="relative flex-1 flex flex-col bg-white">
-      <Welcome />
+    <Page className="relative flex-1 flex flex-col bg-green">
+      {/* <Welcome />
       <Box className="flex-1 overflow-auto">
         <Inquiry />
         <Banner />
@@ -23,7 +23,7 @@ const HomePage: React.FunctionComponent = () => {
         <Divider />
         <ProductList />
         <Divider />
-      </Box>
+      </Box> */}
     </Page>
   );
 };
