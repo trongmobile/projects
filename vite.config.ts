@@ -11,7 +11,7 @@ import react from "@vitejs/plugin-react";
 //   });
 // };
 export default defineConfig({
-  base: '/solution/',  // Đúng với GitHub Pages
+  base: '/projects/',  // Đúng với GitHub Pages
   plugins: [tsconfigPaths(), react()],
   root: '.',            // <== đảm bảo dùng root thư mục hiện tại
 });
